@@ -12,7 +12,7 @@ HIFINI音乐磁场自动签到
 # COOIKIE添加格式
 | 名称               | 内容                      | 说明                                                                                                                 |
 |------------------|-------------------------|--------------------------------------------------------------------------------------------------------------------|
-| `COOKIE`            | [HIFINI网站](www.hifini.com)COOKIE | F12控制台执行`console.log(document.cookie)`                                                                     |
+| `COOKIE`            | [HIFINI网站](https://www.hifini.com)COOKIE | F12控制台执行`console.log(document.cookie)`                                                                     |
 
 
 
